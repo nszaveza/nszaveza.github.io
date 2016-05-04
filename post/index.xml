@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Revija NSZ</title>
+    <link>http://nszaveza.github.io/post/</link>
+    <description>Recent content in Posts on Revija NSZ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>si</language>
+    <lastBuildDate>Mon, 01 Feb 2016 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://nszaveza.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arhiv Revije Zaveza</title>
+      <link>http://nszaveza.github.io/post/revija-zaveza/</link>
+      <pubDate>Mon, 01 Feb 2016 12:00:00 +0000</pubDate>
+      
+      <guid>http://nszaveza.github.io/post/revija-zaveza/</guid>
+      <description>&lt;p&gt;Revijo Zaveza izdaja društvo Nova Slovenska zaveza. Obravnava problematiko komunistične revolucije na Slovenskem ter njene posledice, ki segajo iz vojne dobe v naš čas. Izhaja štirikrat letno v tiskani obliki, naročiti jo je mogoče &lt;a href=&#34;http://www.zaveza.si/index.php/kontakt&#34;&gt;na tajništvu NSZ&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;V pripravi je spletna izdaja revije Zaveza. Postopoma vzpostavljamo celoten arhiv dosedanjih številk revije. Delo je obsežno, vendar bo omogočilo hiter dostop do obsežnega arhiva zbranih pričevanj, zgodovinskih člankov in misli. Za morebitne predloge, vprašanja ali pomoč v zvezi s spletno izdajo revije Zaveza nam, prosimo, pišite na naslov: &lt;a href=&#34;mailto:info@zaveza.si&#34;&gt;info@zaveza.si&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
