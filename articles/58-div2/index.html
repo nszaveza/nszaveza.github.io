@@ -86,12 +86,19 @@
 </ul>
 
 
-<form action="https://www.google.com/search" method="get" target="_blank">
-  <fieldset role="search">
-  	<input class="search" type="text" name="q" results="0" placeholder="Search"/>
-    <input type="hidden" name="q" value="site:http://nszaveza.github.io/" />
-  </fieldset>
-</form>
+
+<script>
+  (function() {
+    var cx = '014252602279539691439:pahphkzmq8m';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
 
 </nav>
 
